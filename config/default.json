@@ -1,3 +1,6 @@
 {
-    "mongoURI":"mongodb+srv://kirub:Spaces1.@contactkeeper-y9pwk.mongodb.net/test?retryWrites=true&w=majority"
+    
+    
+    "mongoURI":"mongodb+srv://siva:LyoXG29SxYUOb1xN@contactkeeper-y9pwk.mongodb.net/test?retryWrites=true&w=majority"
+    
 }
